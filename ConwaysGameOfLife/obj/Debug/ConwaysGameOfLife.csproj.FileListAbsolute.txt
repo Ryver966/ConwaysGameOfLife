@@ -1,0 +1,7 @@
+C:\Users\Jerrki\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.exe.config
+C:\Users\Jerrki\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.exe
+C:\Users\Jerrki\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.pdb
+C:\Users\Jerrki\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\Jerrki\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Jerrki\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.exe
+C:\Users\Jerrki\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.pdb
